@@ -14,6 +14,7 @@ using Splunk in a simulated SOC environment.
 
 ## Attack Flow
 
+```text
 Attacker
    ↓
 SSH Brute-Force Attempts
@@ -27,6 +28,7 @@ Detection
 Investigation
    ↓
 Incident Response
+```
 
 ## Key Detection
 Repeated failed SSH authentication attempts from the same source IP.
