@@ -13,6 +13,7 @@ using Splunk in a simulated SOC environment.
 - VirtualBox
 
 ## Attack Flow
+
 Attacker
    ↓
 SSH Brute-Force Attempts
